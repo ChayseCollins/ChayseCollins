@@ -10,4 +10,8 @@ If you have any cat pictures **PLEASE** send them to me
 
 Thank you
 
+<<<<<<< HEAD
 Good afternoon, good evening, and goodnight
+=======
+Testing 3
+>>>>>>> d1d4129 (test2)
